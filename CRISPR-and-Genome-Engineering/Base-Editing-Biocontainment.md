@@ -2,6 +2,6 @@
 
 DOI: https://doi.org/10.1093/nar/gkag422
 
-A study demonstrating irreversible microbial biocontainment through multiplex CRISPR base editing of essential genes, avoiding DNA double-strand breaks.
+A study showing how CRISPR base editing can achieve irreversible microbial biocontainment without DNA double-strand breaks.
 
 Keywords: CRISPR, Base Editing, Biocontainment, Synthetic Biology, Genome Engineering

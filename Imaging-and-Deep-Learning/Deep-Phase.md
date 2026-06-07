@@ -1,4 +1,4 @@
-# Deep learning of functional perturbations from condensate morphology
+## Deep learning of functional perturbations from condensate morphology
 
 **DOI:** https://doi.org/10.1016/j.cell.2026.05.010
 
